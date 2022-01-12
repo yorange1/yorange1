@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Graduated from Xidian University, majoring in Internet of Things. Working as an embedded software engineer, interested in TinyML.
+
+![yorange1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorange1)
+
+- 🔭 RTOS/TinyML
+- ✨ [TensorFlow认证开发者](https://www.credential.net/fb18d58c-280f-48b3-859e-34d31d4ab834)
+- 🌱 C/C++|Python
+- 📫 1151727370@qq.com
 
 <!--
 **yorange1/yorange1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
